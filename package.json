@@ -1,0 +1,17 @@
+{
+  "name": "mini-poke-town-codecon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
